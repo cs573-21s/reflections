@@ -13,6 +13,12 @@ The color use was also very effective and was the key distinguisher for differen
 circles were a good design choice in this case because any other shape may have been too busy or not as appealing. The circle animation throughout 
 the website ties all the different visuals together by having them disperse and then forming the next visual. The animation was definitely a strong point, 
 especially in the storytelling. The designer would show her findings and exploration by highlighting different areas of the data as you scrolled along. 
-Also, because there was a lot of data, the interactivity helped limit the amount of information being displayed all once. Overall, I thought it was a cool 
+Also, because there was a lot of data, the interactivity helped limit the amount of information being displayed all once.
+
+Something that I didn't particularly like was because you could hover over each circle to show the lyrics, sometimes the pop-up would obscure other circles,
+making it a bit difficult to navigate. In addition to that, the key used to distinguish themes wasn't as appealing, but I do recognize that if the designer
+used a different key, such as outline color of the circles or different textures, it would have been more confusing and busy to look at.
+
+Overall, I thought it was a cool 
 and appealing way to show off "Hamilton". While I do know a couple of the songs, I have yet to watch the whole musical. The visualization just offered a 
 sneak peak of what I should expect when I eventually watch it.
