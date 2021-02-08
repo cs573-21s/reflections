@@ -1,4 +1,4 @@
-# Week (1) Reflection
+## Week (1) Reflection
 
 **Have we flattened the curve in the US?**
 
@@ -23,19 +23,19 @@ of information, as in figure (3).
 
 ![alt text](3.png)
 
-    The next level displays a line chart for a certain state with more details. Along with the chart, there are some tools 
+   The next level displays a line chart for a certain state with more details. Along with the chart, there are some tools 
 that help in the interpretation process such as a tool to compare data on hover, to compare closets data on hover, 
 and to zoom in/out. That reinforces controllability and flexibility. Using the tooltip on hover to display more details 
 reduces the number of items displayed on the chart which reinforces simplicity.
 
-    In both levels, there are two buttons in the upper left corner of the charts. The first button for displaying the whole map
+   In both levels, there are two buttons in the upper left corner of the charts. The first button for displaying the whole map
 of thumbnails and the second one to choose a specific state to display with the name of the state written. That speeds up 
 the process of finding information about a certain state and reducing the burden of memory.
 
 ![alt text](t-1.png)
 
 
-    In general, the chart is very easy to read and flexible with the reader's preferences. The only thing I would add is making it
+   In general, the chart is very easy to read and flexible with the reader's preferences. The only thing I would add is making it
   more color-blind friendly and adding a map legend. I have tested the graph by a color-blind simulator [2] and the result 
   is shown in table (1).
   
