@@ -11,9 +11,9 @@ I saw this visualization while I unsuccessfully sought optimistic information ab
 
 Finally, as a bonus this page has even more visualizations! The two extra visualizations I want to share are the following:
 
-![Average vaccines administered daily](./images/week2/dailydoses.png)
+![Average vaccines administered daily](./images/week2/dailydoses.PNG)
 
-![Estimate of when we will be vaccinated](./images/week2/whenwillwebevaccinated.png)
+![Estimate of when we will be vaccinated](./images/week2/whenwillwebevaccinated.PNG)
 
 These two visualizations are not as fancy as the map. One is a bar chart with a trendline and the other is a line graph with a prediction line extending it. While, simple, they again effectively convey the content they want to present and when used together they provide interesting analysis. The trendline of doses administered by day is following an increasing pattern. Implying that the number of people that can be vaccinated each day will continue to increase. The second graph bases it's percentage of the population vaccinated on a constant vaccination rate. However, assuming the vaccination rate is increasing each day, this prediction curve shouldn't be linear, it should be exponential. This means we may reach 90% vaccinated well before November 10th. At least I can hope that. I came into this data visualization looking for optimistic information, so maybe I just biased myself into that interpretation...
 
