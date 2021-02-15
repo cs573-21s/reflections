@@ -1,0 +1,5 @@
+Link:https://www.visualcapitalist.com/20-years-nintendo-console-switch-sales/?fbclid=IwAR3YhwZo8I3el0fSVxJbvVZo3POFVHSvFUUYnzu_MNVlfGWoB805qRRkNZM
+
+This picture shows us the sales of various game consoles by Nintendo in the past two decades. Each game console is represented by a different color to distinguish it. The width of each console on the chart in a specific year represents the sales in that year. 
+This chart contains a lot of information which are clearly presented to viewers under its design. For example, we can know which console of Nintendo has sold over the years. We can also compare the sales of consoles that are being sold at specific year. You can also see the sales trend of individual console which you are interested. 
+For example, we can see that in 2009, Nintendo’s consoles WII and DS sales began to decline. Until the launch of Switch in 2017, its sales began to increase year by year. Through these trends and comparisons, we can get to the development of Nintendo and even have a rough prediction for the next few years. 
