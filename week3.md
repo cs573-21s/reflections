@@ -1,4 +1,4 @@
-# Average Police Salary by State | Accessibility
+# One Year Animation of the 7-day average new Covid-19 cases per capita (NYT County dataset)
 
 ![image](https://github.com/mike3osei/reflections-1/blob/master/vislapse.gif) 
 
