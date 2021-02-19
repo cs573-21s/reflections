@@ -1,6 +1,6 @@
 # Average Police Salary by State | Accessibility
 
-![image](https://github.com/mike3osei/reflections/blob/master/ps.png) 
+![image](https://github.com/mike3osei/reflections-1/blob/master/ps.png) 
 
 One thing that I have noticed that can be very important in visual design is the use of color. This may seem obvious, but in most cases people use color for purely aesthetic or hierarchical representations. Being someone who is color blind, the use of color in most graphs is pretty trash, in my opionion. On a decent amount of visualizations, I never seem to truly understand why the colors were of any significance. In this example, the use of color is definitely very important and accessibility is accounted for in a very wise manner.
 
