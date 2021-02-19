@@ -2,15 +2,15 @@
 
 ![image](https://github.com/mike3osei/reflections-1/blob/master/vislapse.gif) 
 
-One thing that I have noticed that can be very important in visual design is the use of color. This may seem obvious, but in most cases people use color for purely aesthetic or hierarchical representations. Being someone who is color blind, the use of color in most graphs is pretty trash, in my opionion. On a decent amount of visualizations, I never seem to truly understand why the colors were of any significance. In this example, the use of color is definitely very important and accessibility is accounted for in a very wise manner.
+The Covid anniversary is approaching us, and we're around that time where we can look at some of these interesting visualizations that were developed over the past year or so. 
 
 ## Link
-https://www.reddit.com/r/dataisbeautiful/comments/lg2mo8/oc_average_police_salary_by_state/
+https://www.reddit.com/r/dataisbeautiful/comments/lcn11g/oc_1_year_animation_of_the_7day_average_new/?utm_source=share&utm_medium=web2x&context=3
 
 ## Initial Response
 
-Initially when seeing this visualization, my first thought that came to mind, was that the use of gradients was actually very effective in pointing my eyes in the right direction. Especially when seeking a region with higher pay versus one with lower pay. Another observation I definitely made was that places with big cities were probably more in tune to have an average police salary that was on the higher side. One great thing about this visualization that I noticed was the positioning of state nodes. They were pretty much in the same position they usually would be. That made it very easy to traverse the items. I already had a key-value map of the United States stored subconciously. One that I was already familiar with.
+Initially when seeing this visualization, the first thought that came to my mind, was that timelapses really can tell you a multidimensional story. I really enjoy the how multidimensional they are and I feel as if you have way more control in adjusting the narrative. This can be a good thing, but it can also be a bad thing. Controlling the narative can introduce bias but I didn't think that this was the case with this time lapse. It was interesting to see where the first couple cases came up and so forth. It does get a little weird as there are several datapoints, but the story is told none the less. One thing that I did find challenging was that I couldn't help but continually try to remember where I was at certain parts of the year. The date was like half a distraction to me. I do think that that may simply be specific to me though.
 
 ## Takeaways
 
-Is there much data visualization can do in terms of accessibility? I feel like in computer science, with web development and mobile development, accessibility is a big part of the workflow. It is very important to make good use of font sizes, colors, and tools that can be widely adopted across your audience.
+I thought that with time lapses the future is for sure bright here for data science. I can't speak for all people, but I know for myself, atleast, I am almost always able to get a bigger picture if there is a narrative that comes along with it. I thought it was great that I could follow the bigger picture story progressively. Theres even more interesting things that you can do with seasons, based on the date that wasn't added here, but I do think that would be a nice additional feature.
