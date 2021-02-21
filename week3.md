@@ -3,6 +3,7 @@ Week 3 - The Companies Disney Owns
 By Andrew Nolan
 
 ![The companies Disney owns](./images/week3/DisneyProducts.jpg)
+Source: https://www.titlemax.com/discovery-center/money-finance/companies-disney-owns-worldwide/
 
 It's common to hear stories on social media or in the news about how just a few super corporations control everything. This visualization provides an example of that. We all know Disney owns a lot of things, but this graphic allows you to really explore just how many things that is. The article discussing this map is also a few years old at this point, so we can expect that the Disney owns even more now.
 
