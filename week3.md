@@ -1,0 +1,10 @@
+![Tree.png](https://github.com/wtt102/reflections-1/blob/master/Tree.png)
+
+OneZoom
+https://www.onezoom.org/life/@Eukaryota=304358?img=best_any&anim=flight#x1510,y60,w2.3290
+---
+This is an interactive tool that thoroughly diagrams evolutionary taxonomy. This "data format" is inherently super detailed and coming up with a tool to navigate it can easily lead to a lot of readability challenges. I think this visualization does a great job of making it easy to see where each detail fits. The leaf nodes each route to a wikipedia page. The branch nodes show the relative timeline of when we suspect a given divergence in subclassifications as well as the number of species along the branch. I think the spiral design works well; since there are so many layers, it helps to have a fractalized structure. Time is embedded into the visualization very naturally. It's also very easy to search for a species of interest and the zooming feature makes it easy to figure out the evolutionary path it took to get there.
+
+I think this visualization uses space very well. Similar to techniques like PCA, there are only so many visual dimensions that you have access to. I think this visualization does a great job of using distance to effectively communicate what's happening. For instance, we expect that birds are much more ancestrally different than fish and even moreso from bacteria, and this is naturally reflected in the graphic; It's very easy to see how close one species is to another.
+
+This visualization takes advantage of the same things that the one on DSM classifications does. Obviously there are many more species and such than diagnoses, but the same principles apply. The use of recurrent visual structures like the branches and fonts from the DSM visual are similar to the images and fractalized branches. I'm noticing that depending on how many levels you need, you can change the types of patterns you use. For example, the leaf nodes used in the DSM visual were lists while the leaf nodes here are actual leaves. I like how this visual leaves open the opportunity to keep subdividing, should there be any new changes necessary to make.
