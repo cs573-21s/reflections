@@ -4,7 +4,6 @@ So as I was looking through Twitter, I found these 3 Valentine's Day visualizati
 information but in different ways. I think it was part of a data visualization challenge of some sort, but 
 overall it was interesting to see the effectiveness between each one.
 
-[Link to the first visualization](https://public.tableau.com/profile/alaina.prevot#!/vizhome/MakeoverMondayWeek7-WhatsthepointofVDay/WhatsthePointofVDay)
 
 ![Viz 1](images/week3_1.png)
 
@@ -15,7 +14,7 @@ colors but it just didn't occur to me. I do like how they highlighted the text b
 color though, and that they fit the theme to Valentine's Day. It's hard to distinguish the actual percentages for most of the other reasons after "To show 
 how much you care". 
 
-[Link to the second visualization](https://public.tableau.com/profile/azad.jivani#!/vizhome/MakeoverMonday-2021W7ValentinesDay/Viz)
+[Link to the first visualization](https://public.tableau.com/profile/alaina.prevot#!/vizhome/MakeoverMondayWeek7-WhatsthepointofVDay/WhatsthePointofVDay)
 
 ![Viz 2](images/week3_2.png)
 
@@ -25,7 +24,7 @@ the thicker line effectively to show the difference between the percentage of wo
 answered "To show that you care". It is a bit confusing because to see the reasons for the women's percentages, 
 you'd have to trace through the men's side. Overall, I thought this second one was more effective than the first.
 
-[Link to the third visualization](https://public.tableau.com/profile/ant.pulley#!/vizhome/ValentinesDay-WhatisthePoint_16137595808010/ValentinesDay-WhatisthePoint)
+[Link to the second visualization](https://public.tableau.com/profile/azad.jivani#!/vizhome/MakeoverMonday-2021W7ValentinesDay/Viz)
 
 ![Viz 3](images/week3_3.png)
 
@@ -33,5 +32,6 @@ Finally for the third one, I really liked this one and how it was presented. It 
 displayed the percentages effectively. I think it would have been nice to have written out the percentage because it's
 hard to acutally gauge the difference between the lengths. Indicating the reasons is pretty easy as well.
 
+[Link to the third visualization](https://public.tableau.com/profile/ant.pulley#!/vizhome/ValentinesDay-WhatisthePoint_16137595808010/ValentinesDay-WhatisthePoint)
 
 
