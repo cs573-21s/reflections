@@ -1,6 +1,6 @@
 # Week 4 Reflection
 
-*Iceberger Remixed - Iceberg Simulator**
+**Iceberger Remixed - Iceberg Simulator**
 
 Link to visualization: https://engaging-data.com/iceberger-remixed/?d
 
