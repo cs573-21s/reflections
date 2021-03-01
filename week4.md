@@ -20,7 +20,7 @@ Around 18 and a half minutes into the movie, there is another example of bird da
 
 ![Birds year 1 vs year 5](./images/week4/year5.PNG)
 
-Beyond the movie, the Okavango project also features an interactive Google Earth page with several visualizations [2]. The first shows a map with an overlay depciting human impact on nature. It uses a saturated green scale to show the level of impact. Suprisingly/confusingly to me, the more vivid green meant lower human impact. Showing again, that the Cuito river is unexplored.
+Beyond the movie, the Okavango project also features an interactive Google Earth page with several visualizations [3]. The first shows a map with an overlay depciting human impact on nature. It uses a saturated green scale to show the level of impact. Suprisingly/confusingly to me, the more vivid green meant lower human impact. Showing again, that the Cuito river is unexplored.
 
 ![Human Impact](./images/week4/humanimpact.PNG)
 
