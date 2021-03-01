@@ -7,4 +7,4 @@ The subject of these pages contains have been categorized into five kinds. Each 
 
 Compared with the visualizations I found before, this visualization contains more information. To express information, many interactions are added into its design. Thus, users can find specific information by themselves. At the same time, the view does not give people a very redundant feeling.
 
-！[img](img/reflection4)
+！[img](img/reflection4.png)
