@@ -28,11 +28,11 @@ Another interesting Google Earth visualization they shared includes a graph of w
 
 ![Wildlife Density](./images/week4/wildlifedensity.PNG)
 
-The final visualization I wanted to share was the fire risk levels of the basin. This time it uses a saturated red scale to show levels, with the most red areas being the highest risk. Interestingly, although not perfect, it seems to show a somewhat inverse relationship with where the wildlife spottings occured. This makes sense as the animals likely go to lush areas and the fires occur in dry areas. 
+The final visualization I wanted to share is the fire risk levels of the basin. This time it uses a saturated red scale to show levels, with the most red areas being the highest risk. Interestingly, although not perfect, it seems to show a somewhat inverse relationship with where the wildlife spottings occured. This makes sense as the animals likely go to lush areas and the fires occur in dry areas. 
 
 ![Fire Risk](./images/week4/firerisk.PNG)
 
-This documentary and journey had a lot of interesting visualizations throughout that they used to help tell their story. I think it was interesting to see how they overlayed visualizations on actual maps/landscapes as opposed to the sort of cookie cutter maps we usually see of the U.S. States. Plotting points along a river also allowed for interesting depictions of salience and understanding of how the environment surrounding the river that a normal map can't show with a small blue line. Finally, I think this was appropriate to look at after the color lectures because a lot of these visualizations use color as their primary mark for the data.
+This documentary and journey has a lot of interesting visualizations throughout that are used to help tell their story. I think it was interesting to see how they overlayed visualizations on actual maps/landscapes as opposed to the sort of cookie cutter maps we usually see of the U.S. States. Plotting points along a river also allowed for interesting depictions of salience and understanding of the environment surrounding the river that a normal map can not show with a small blue line. Finally, I think this was appropriate to look at after the color lectures because a lot of these visualizations use color as their primary mark for the data.
 
 If you are reading this and haven't seen it yet, I'd encourage you to check out this movie.
 
@@ -40,4 +40,4 @@ Sources
 ---
 1. *Into the Okavango* (2018)
 2. https://www.nationalgeographic.org/projects/okavango/
-3. https://g.co/earth/okavango 1 and 5 6
+3. https://g.co/earth/okavango
