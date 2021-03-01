@@ -1,6 +1,6 @@
 # One Year Animation of the 7-day average new Covid-19 cases per capita (NYT County dataset)
 
-![image](https://github.com/mike3osei/reflections-1/blob/master/vislapse.gif) 
+![image](https://github.com/mike3osei/reflections-1/blob/master/img/vislapse.gif) 
 
 The Covid anniversary is approaching us, and we're around that time where we can look at some of these interesting visualizations that were developed over the past year or so. 
 

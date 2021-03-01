@@ -1,6 +1,6 @@
 # A Wordcloud of Every Inaugural Address in the History of the United States (1789-2021)
 
-![image](https://github.com/mike3osei/reflections-1/blob/master/dvis.jpg)
+![image](https://github.com/mike3osei/reflections-1/blob/master/img/dvis.jpg)
 
 I can honestly say that up until this day, I had never intentionally looked up an actual data visualization in my life before. Coming from a CS, UI/UX background that can probably come off as a shock to most. One thing I can say is that I do take visual design very seriously so it was definitely hard to pick one visualization. Something that did stop me while scrolling and looking through whats out there was this visualization of United States Inaguaral Addresses from 1789 to 2021.
 
