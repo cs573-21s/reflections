@@ -1,5 +1,5 @@
-Week 4 Reflection - What will it be like when we go back to the office?
----
+# Week 4 Reflection - What will it be like when we go back to the office?
+
 ## Resource link: 
 
 https://graphics.reuters.com/GREAT-REBOOT/OFFICE/xlbpgdyjzvq/
