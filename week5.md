@@ -7,6 +7,6 @@ An animated map of currents and temperature, reminiscent of NASA’s Perpetual O
 
 Keep reading though, and you’re taken underwater 800 feet below the surface. It’s like seeing the currents from a fish’s point of view.
 
-The transition of this 3D visualization is very cool to me. I wonder how did Moises Velasquez-Manoff and Jeremy White do it and how long did it take. BTW, it kind of looks like the Starry Night painted by Vincent Van Gogh.
+The transition of this 3D visualization is very cool to me. I wonder how did Moises Velasquez-Manoff and Jeremy White do it and how long did they take. BTW, it kind of looks like the Starry Night painted by Vincent Van Gogh.
 
 ![img](img/5-1.PNG)
