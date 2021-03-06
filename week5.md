@@ -1,4 +1,4 @@
-# Week 5 - In the Atlantic Ocean, Subtle Shifts Hint at Dramatic Dangers
+# Week 5 - Atlantic Ocean Climate Change
 [Resource link](https://www.nytimes.com/interactive/2021/03/02/climate/atlantic-ocean-climate-change.html)
 
 This is quite a dive by Moises Velasquez-Manoff and Jeremy White for The New York Times. They look at the potential danger of melting ice from Greenland flowing into the Gulf Stream.
