@@ -1,0 +1,5 @@
+https://www.reddit.com/r/dataisbeautiful/comments/lzcqat/when_does_spring_usually_arrive_oc/
+
+For this week's reflection, I looked at a visualization posted on Reddit (/r/dataisbeautiful) by u/Jsillin. The visualization is a map showing the approximate month that it starts to feel like Spring in counties across the US. I chose this visualization because it's been getting warmer and I was wondering when it would stop being so cold and start feeling like Spring. According to this visualization, it will start in May.
+
+Across the map, the US is largely divided into four different bands of color where the southernmost band represents January and the northernmost band represents May. Towards western side of the US, there are patches of blue, indicating that spring will not start until July and I'm assuming this might have something to do with elevation in these regions although this is only an assumption. It would be cool if elevation was also shown on the map or if an elevation map was shown next to this visualization to see if the warmer weather corresponds to different elevations. 
