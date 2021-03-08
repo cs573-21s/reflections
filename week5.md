@@ -1,7 +1,7 @@
 Reflections 5
 ===
 
-![screengrab from The Social Dilemma](/images/dataviz-reflection1.png)
+![screengrab from The Social Dilemma](/images/ccviz.png)
 
 [Link to the viz paper]( https://drive.google.com/file/d/1goVy3uPYEUmccHVtKuRXV4ZjmDgSdk8G/view?usp=sharing)
 
