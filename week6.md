@@ -1,0 +1,15 @@
+# Week 6 Reflection
+
+**Drowning in Plastic**
+
+Link to visualization: https://graphics.reuters.com/ENVIRONMENT-PLASTIC/0100B275155/index.html
+
+![Snapshot of visualization](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c936244b-b7a4-4ffd-ad31-cec38f306055/defr2em-848a7139-b448-4135-9851-334577b35fcc.png/v1/fill/w_1280,h_622,q_80,strp/12_by_umitoka_defr2em-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD02MjIiLCJwYXRoIjoiXC9mXC9jOTM2MjQ0Yi1iN2E0LTRmZmQtYWQzMS1jZWMzOGYzMDYwNTVcL2RlZnIyZW0tODQ4YTcxMzktYjQ0OC00MTM1LTk4NTEtMzM0NTc3YjM1ZmNjLnBuZyIsIndpZHRoIjoiPD0xMjgwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.r7RKJfuGoUIJz5iNNQg7fq4WwYWYvRbGnEY3dkG88vc)
+
+This visualization opens with an animation displaying the amount of plastic bottles sold since you opened the page. Because the bottles are all pouring on a model of a person and a vehicle, you can see the sheer quantity of bottles sold, which ends up being 1 million every minute. This is an already shocking visual to open up to, and leads to progressively more astonishing visuals about the amount of plastic bottles sold.
+
+![Snapshot of visualization](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c936244b-b7a4-4ffd-ad31-cec38f306055/defr2eh-cd457e3a-f587-4f28-995b-b68034b71984.png/v1/fill/w_1267,h_630,q_70,strp/poggies_by_umitoka_defr2eh-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD02MzciLCJwYXRoIjoiXC9mXC9jOTM2MjQ0Yi1iN2E0LTRmZmQtYWQzMS1jZWMzOGYzMDYwNTVcL2RlZnIyZWgtY2Q0NTdlM2EtZjU4Ny00ZjI4LTk5NWItYjY4MDM0YjcxOTg0LnBuZyIsIndpZHRoIjoiPD0xMjgwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.mQonQErx7rHay3RlR6LOlmP7idI7BUSYe73PX-fAt6w)
+
+The visualization then displays the amount of bottles sold every hour, day, month, year, and 10 years, compared to famous landmarks as a size comparison. (The image above shows 4 trillion bottles sold in the past 10 years, as compared with Manhattan.) There are so many bottles that the quantity is just displayed as a blue mass, with each bottle being just a tiny spec. The colors also do a good job of creating contrast, as the bottles are blue, while anything they are compared with is white for clarity. It really opened my eyes to just how much plastic waste humans dispose of constantly, especially since this just includes plastic bottles, and there are so many other ways we use unnecessary packaging and waste. The visualization conveys this as well, explaining that 4.9 billion tons of the 8.3 billion tons of plastic produced from 1950 to 2015 has been discarded.
+
+Overall, the visualization uses images, animation, and text to show just how much of a concern the amount of plastic we use is. It does a great job of describing the issue from multiple angles, with multiple types of visualizations. It's difficult to comprehend just how much plastic this is, but the visualization juxtaposes this amount to sizes we do understand in order to make a digestable comparison.
