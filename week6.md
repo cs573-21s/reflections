@@ -1,0 +1,5 @@
+https://www.reddit.com/r/dataisbeautiful/comments/m1vjvs/maps_of_the_world_with_different_sea_and_lake/
+
+For this week's reflection, I chose a visualization that displays six maps of the world with each map showing a varying sea level. The first three show the world if the sea level was 100 m, 500 m, and 1000 m lower and the last three show the world if the sea level was 100 m, 500 m, and 1000 m higher. I thought it was interesting because due to climate change, the oceans are rising and this might be our reality in the not so distant future. I thought it was kind of interesting to see which regions would be covered by ocean first.
+
+I thought the visualizations themselves were cool but I think it would have they also would have made a great dynamic visualization because it would have been really cool to see the oceans rising on one single map. It would have been really interesting to see that progression happening. Otherwise, I thought the visualizations were very interesting and informative.
