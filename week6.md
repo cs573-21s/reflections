@@ -1,6 +1,6 @@
 # Week 6 Reflection - Stanford Cable TV News Analyzer
 
-Resource link: [Stanford Cable TV News Analyzer](https://tvnews.stanford.edu/?dataVersion=v1&data=eyJvcHRpb25zIjp7ImFnZ3JlZ2F0ZSI6Im1vbnRoIn0sInF1ZXJpZXMiOlt7ImNvbG9yIjoiIzRFNzlBNyIsInRleHQiOiJuYW1lPVwiam9lIGJpZGVuXCIifSx7ImNvbG9yIjoiI0UxNTc1OSIsInRleHQiOiJuYW1lPVwiZG9uYWxkIHRydW1wXCIifSx7ImNvbG9yIjoiI0YyOEUyQiIsInRleHQiOiJ0ZXh0PVwidmFjY2luZSB8IHBmaXplciB8IG1vcmRlbmFcIiJ9LHsiY29sb3IiOiIjNzZCN0IyIiwidGV4dCI6InRleHQ9XCJDT1ZJRCB8IENPUk9OQVZJUlVTIHwgQ09ST05BIFZJUlVTXCIifV19)
+Resource link: [Stanford Cable TV News Analyzer](https://tvnews.stanford.edu/)
 
 This is a research project from the Computer Graphics Lab at Stanford University. 
 
