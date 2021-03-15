@@ -2,7 +2,7 @@
 
 ![image](https://github.com/mike3osei/reflections-1/blob/master/img/week6.jpeg) 
 
-This visualization is by the fondation follereau. The goal of the vis was to promote the quality of life of vulnerable African communitites. They showcase the countries budget size vs. their health projects, education projects, protection projects, and emergency projects. On the highest layer of the tree they discuss the major projects in the region.
+This visualization is by the fondation follereau. The goal of the vis was to promote the quality of life of vulnerable African communitites. They showcase the countries budget size vs. their health projects, education projects, protection projects, and emergency projects. On the highest layer of the tree they discuss the major projects in the region. 
 
 ## Link
 https://public.tableau.com/profile/noel.joe.basil#!/vizhome/Book2_16115277202920/VFSG_FF
