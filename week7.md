@@ -14,4 +14,4 @@ Overall, good story telling, multiple chart types, colors, and cute doodles made
 
 ![img](img/7-2.PNG)
 
-![img](img/7-3.png)
+![img](img/7-3.PNG)
