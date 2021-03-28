@@ -9,7 +9,7 @@ Paper
 ---
 [The Persuasive Power of Data Visualization](https://ieeexplore.ieee.org/abstract/document/6876023)
 
-![Paper](images/reflection7-1.png)
+![Paper](images/reflection8-1.png)
 
 Reflection
 ---
