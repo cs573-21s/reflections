@@ -15,7 +15,9 @@ During the experiment process, participants are presented two alternative images
   </tr>
   <tr>
     <td>Tree</td>
-    <td>People have a better perception of the tree property to spring layout than other layouts. The author believes that the possible reason is that the Spring layout clearly shows the existence of loops in the target graph and draws the non-target graph in the form of "strings".
+    <td>People have a better perception of the tree property to spring layout than other layouts. The author believes that the possible reason is that the Spring layout clearly shows the existence of loops in the target graph and draws the non-target graph in the form of "strings".   
+
+<img src="img/8-3.png"  width="400px">   
 </td>
   </tr>
   <tr>
@@ -23,3 +25,5 @@ During the experiment process, participants are presented two alternative images
     <td>For this task, although all layouts resulted in performance better than chance, none of them was found to be significantly better than the others.</td>
   </tr>
 </table>
+
+link:https://diglib.eg.org/bitstream/handle/10.2312/evs20201039/001-005.pdf
