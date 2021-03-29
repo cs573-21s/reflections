@@ -6,7 +6,9 @@ We are surrounded by graphs such as social networks, and these graphs need to be
 There are four types of layout are included in the experiments. They are Circular, Grid, Planar and Spring.   
 <br>
 <img src="img/8-2.png"  width="400px">   
-During the experiment process, participants are presented two alternative images, only one of which contains the target graph, and participants need to select the graph with the desired property.    
+During the experiment process, participants are presented two alternative images, only one of which contains the target graph, and participants need to select the graph with the desired property.  
+
+<img src="img/8-3.png"  width="400px">   
 <table>
   <caption>results</caption>
   <tr>
@@ -16,8 +18,6 @@ During the experiment process, participants are presented two alternative images
   <tr>
     <td>Tree</td>
     <td>People have a better perception of the tree property to spring layout than other layouts. The author believes that the possible reason is that the Spring layout clearly shows the existence of loops in the target graph and draws the non-target graph in the form of "strings".   
-
-<img src="img/8-3.png"  width="400px">   
 </td>
   </tr>
   <tr>
