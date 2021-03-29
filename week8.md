@@ -1,0 +1,11 @@
+# Week 8 Reflection
+
+**Did You Get The Gist Of It? Understanding How Visualization Impacts Decision-Making**
+
+Link to paper: https://arxiv.org/pdf/2010.04096.pdf
+
+![Snapshot of paper](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c936244b-b7a4-4ffd-ad31-cec38f306055/degqvqd-49707a7c-414e-4f5a-9ba0-884e39af8441.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvYzkzNjI0NGItYjdhNC00ZmZkLWFkMzEtY2VjMzhmMzA2MDU1XC9kZWdxdnFkLTQ5NzA3YTdjLTQxNGUtNGY1YS05YmEwLTg4NGUzOWFmODQ0MS5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.lEfN3xWGK8cNYpo7EK4f-nDLSBxFMYyBFvJhRfTMvxA)
+
+This paper discusses the theories and provides guidance on how to bridge the divide between the evaluation of decision-making in visualization and psychology research. Psychological researchers have demonstrated that decision-making is based on quantitative reasoning and gist-based intuition. However, visualization researchers tend not to focus on these two separate systems when evaluating the impact of visualization design on decision-making.
+
+People's decisions are based primarily on two types of reasoning: Type 1 and Type 2. Type 1 is responsible for our intuition and pattern recognition while Type 2 is centered around analytical thinking. It is only through combining these two processes that we make our decisions, whether trivial or complex. Data visualizations can be a crucial part of how we make some of our decisions. Thus, it is important to look more holistically at the decision-making process when creating and analyzing them. For example, there was a study that evaluated visualizations based on participants' estimates on likeliness of bus arrival times on a scale of 0 to 100. Because the participants were prompted on a numerical scale, they were more likely to use their Type 2 reasoning, when in reality, Type 1 affects decision-making to a greater scale. It is hard to know if the results from this study could apply to real-life situations unless both types of reasoning are analyzed. If visualizations are created with these types of decision-making in mind, they can greater and more accurately influence how people act. 
