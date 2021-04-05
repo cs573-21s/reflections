@@ -1,4 +1,4 @@
-Reflections 5
+Reflections 6
 ===
 
 ![Risky activities during COVID-19](/images/covid_risky_activities.png)
