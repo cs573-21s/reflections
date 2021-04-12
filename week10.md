@@ -19,4 +19,4 @@ There are two examples on this website. (http://vti-example.fbeck.com)
 In this demo, there are some sparkline embedded in the text, their sizes are same with the text surrounding around them. When you mouse over sparkline and bold text, the graphics will be interactive at same time.      
 <img src="img/10-2.png">    
     
-This technology is really cool for me. It is first time to know that text can have interactive link with graphics. Compared with text has no interactive link, I think it allow readers has no fun to explore the link between the text and graphics. Moreover, it allow people easier to understand data.
+This technology is really cool for me. It is first time to know that text can have interactive link with graphics. Compared with text has no interactive link, I think it allow readers has more fun to explore the link between the text and graphics. Moreover, it allow people easier to understand data.
