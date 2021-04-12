@@ -18,6 +18,7 @@ Link to Papers
   - [FireFlies2: Interactive Tangible Pixels to enable Distributed Cognition in Classroom Technologies](https://dl.acm.org/doi/pdf/10.1145/3132272.3134122)
 
 Category: Visualizations in Teaching Augmentation using peripheral visual agents
+----------------------------------------------------------
 
 This research explores the effectiveness of exploring teaching augmentation using physical **Low Fidelity(Lo-fi)** visualization components that users can interact with. The components allows students and teachers to interact with each other in a noninvasive manner where the students can work independently without being disturbed while also ensuring that the teachers can address student needs in real-time. The work has shown how the effective use of Lo-fi visual component can result in overall effectiveness of instructions in classrooms. This work is profound to Data-Viz researches working in education in so many levels as it focuses on increasing the opportunity to address student needs while allowing them to exercise **persistence and autonomy** which has always been challenging in Ed-Tech domain.
 
