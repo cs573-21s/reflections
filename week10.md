@@ -1,6 +1,6 @@
 # Research and Application of Dynamic and Interactive Data Visualization Based On D3
 
-![image](https://github.com/mike3osei/reflections-1/blob/master/img/week9.png) 
+![image](https://github.com/mike3osei/reflections-1/blob/master/img/week10.png) 
 
 This publication describes the entire procedure of dynamic and interactive data visualization from several angles. They use D3 as a basis of this research and look for different advantages or techniques that can make visualization interactive data better. This analysis is conducted by the School of Information Technology, Shanghai Jianqiao University. 
 
