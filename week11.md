@@ -1,6 +1,6 @@
 Week 11 - Learning Representations by Humans, for Humans
 ===
-By Andrew Nolan
+By Andrew Nolan (4-19-21)
 
 ![The abstract of the paper](./images/week11/abstract.PNG)
 

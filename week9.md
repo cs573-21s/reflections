@@ -1,6 +1,6 @@
 Week 9 - Creating Access to Music Through Visualization
 ===
-By Andrew Nolan
+By Andrew Nolan (4/5/21)
 
 I found this article from the IEEE Toronto International Conference on Science and Technology for Humanity while doing background research for my team's final project proposal. The authors of this paper propose that music visualizations could help deaf and hearing impaired individuals enjoy and understand the sentiments conveyed by music. They conducted a study evaluating several major types of music visualizations: Music Animation Machines (MAM), iTunes Visualizer's magnetosphere, and motion pixels of music (MPM) visualizations.
 

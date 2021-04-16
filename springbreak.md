@@ -1,6 +1,6 @@
 Spring Break - Springbreak Phone Data to Show the Potential Spread of COVID-19
 ===
-By Andrew Nolan
+By Andrew Nolan (3-22-21)
 
 ![The Possible Spread of COVID from Fort Lauderdale Beach](./images/springbreak/fullspread.PNG)
 

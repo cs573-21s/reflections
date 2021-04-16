@@ -1,6 +1,6 @@
 Week 2 - COVID Rollout by State in the US
 ===
-By Andrew Nolan
+By Andrew Nolan (2-15-21)
 
 ![Vaccine Rollout by State](./images/week2/percentvacinnatedbystate.PNG)
 

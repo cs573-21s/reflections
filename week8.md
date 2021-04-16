@@ -1,6 +1,6 @@
 Week 8 - Time Series Bitmaps
 ===
-By Andrew Nolan
+By Andrew Nolan (3-29-21)
 
 ![Bitmaps in the file browser](./images/week8/bitmaps.PNG)
 

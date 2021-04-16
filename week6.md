@@ -1,6 +1,6 @@
 Week 6 - TimeSearcher: Visual Exploration of Time-Series Data
 ===
-By Andrew Nolan
+By Andrew Nolan (3-15-21)
 
 ![TimeSearcher v2](./images/week6/timesearcher2.PNG)
 

@@ -1,6 +1,6 @@
 Week 4 - Into the Okavango
 ===
-By Andrew Nolan
+By Andrew Nolan (3-1-21)
 
 ![image](./images/week4/unsurveyed.PNG)
 

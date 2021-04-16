@@ -1,6 +1,6 @@
 Week 3 - The Companies Disney Owns
 ===
-By Andrew Nolan
+By Andrew Nolan (2-22-21)
 
 ![The companies Disney owns](./images/week3/DisneyProducts.jpg)
 Source: https://www.titlemax.com/discovery-center/money-finance/companies-disney-owns-worldwide/

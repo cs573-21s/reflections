@@ -1,6 +1,6 @@
 Week 5 - Genetic Algorithms to Improve Parallel Axes Plots
 ===
-By Andrew Nolan
+By Andrew Nolan (3-8-21)
 
 ![Parallel Axes Comparison](./images/week5/parallel_axes.gif)
 

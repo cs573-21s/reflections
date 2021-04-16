@@ -1,6 +1,6 @@
 Week 10 - Chess Evolution Visualization
 ===
-By Andrew Nolan
+By Andrew Nolan (4-12-21)
 
 ![The abstract of the paper](./images/week10/abstract.PNG)
 

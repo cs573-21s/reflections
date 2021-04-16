@@ -1,6 +1,6 @@
 Week 1 - A Discussion of Chernoff Faces
 ===
-By Andrew Nolan
+By Andrew Nolan (2-8-21)
 
 #### Intro
 Last summer I took the course CS 548 Knowledge Discovery and Data Mining. In one of the lectures we talked about data visualizations and in one slide we breifly discussed Chernoff Faces. For some reason I think about this data visualization way more than I should. For my assignment 1 project I made some Chernoff Face visualizations of Iris species data in d3. Since I've been thinking about them all week I felt like an introduction/discussion to the applications of the visualization would be a good choice for this week's reflection.
