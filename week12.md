@@ -14,40 +14,18 @@ Paper
 Reflection
 ---
 
-As I am specifically observing spatial geographical data for my final project, I thought that a paper on map encodings may reveal insights on how to best present map data. 
+As I am observing spatial geographical data for my final project, I thought that a paper on map encodings may reveal insights on how to best present map data. 
 
+This paper explores the use of 2D and 3D map encodings with the use of head mounted displays (HMDs). The authors conducted 3 studies with the last two being very similar except with a difference in data set size. In all of the studies, the authors compare various encodings and how fast and accurate users can compare 2 flows on a map. The implementation is slightly similar to that of a3 in which we asked users to compare 2 data points in various encodings and find their relative difference.
 
+In the first study, the authors looked at 5 different map encodings as shown below. I won't go into each of them for the sake of brevity, but I'll discuss the major findings. They found that the 2D straight map had the fastest response time, while 3D height for distance had the most accurate readings.
+
+![Study 1 Encodings](images/reflection12-2.png)
+
+In the second study, the authors compared a 2D straight map, a 3D height for distance, a 3D globe, and a unique type of encoding called MapsLink (not in that uses a series of flat maps connected by tubes. MapsLink and the globe are shown below. The authors found that the globe was significantly more accurate than the 2D straight and MapsLink. And although there was some evidence that the globe was more accurate than the 3D height map, the data was not statistically significant. MapsLink also was slower than the other representations. When analyzing MapsLink, users spent most of their time just moving the map. 
+
+![Study 2 Encodings](images/reflection12-3.png)
+
+In the third study, the authors just looked at a 2D straight map, a 3D height for distance map, and the globe with a larger dataset. A larger dataset is important to test since a larger dataset will have more lines which may be more difficult to read. The authors found that once again the globe beat out the 2D and 3D maps in accuracy but also speed. In addition, the globe was preferred by users even though the user can only see half of the map at a time. I think this preference exists mainly due to the incorporation of HMD technologies. If not, then the feature of geo-rotation would likely be inhibited. Even though a mouse and keyboard could replicate the movement, I wonder if it would decrease the globe's preference.
 
 Even though I realize origin-destination flow maps may not be as applicable to my project as my data set does not contain linked data (ex: origin and destination), I find the discussion on 2D vs 3D visualizations with AR/VR technology to be insightful as 3D visualizations tend to get a bad rap for being cluttered or un-intuitive in most contexts.
-
-3 experiments
-1. different 2D and 3D encodings for flows on flat maps
-    participants are significantly more accurate with raised flow paths whose height is proportional to flow distance but fastest with traditional straight line 2D flows
-2-3. compared flat maps, 3D globes and a novel interactive design we call MapsLink, involving a pair of linked flat maps
-    participants took significantly more time with MapsLink than other flow maps while the 3D globe with raised flows was the fastest, most accurate, and most preferred method
-
-work suggests that careful use of the third spatial dimension can resolve visual clutter in complex flow maps
-
-Introduction
-Origin Destination (OD) flow map - common but cluttered if too many flows
-Head mounted displays with AR capabilities may be useful
-
-Question: whether traditional 2D OD flow maps are the best way to show origin-destination flow in such immersive environments or whether some variant that makes use of a third dimension may be better
-
-Even though 3d spatial encodings for abstract data are presented with caution, 3d encodings may be helpful for OD applications 
-- The height dimensionoffersthepossibilityofanadditionalspatial encoding for data attribute
-- Liftingflowcurvesoffthemapmayreduceclutterandprovidebetter visibility of the underlying map.
-- In immersive environments, occlusions can be resolved by natural head movements or gesture manipulations to change the view angle.
-- In 2D flow maps the flows may be perceived as trajectories (high- ways, shipping routes, etc.), lifting them into the third dimension
-may resolve this ambiguity.
-
-3 main contributions
-1. chart the design space for 3d flow maps - separate the design space into two orthogonal components: the representation of flow, e.g. straight or curved lines in 2 or 3D, and the representation of the geographic reference space, e.g. 3D globe or flat map
-2. evaluation of different flow maps in VR differing in the representation of flow - compared 2D flow representations with (a) straight and (b) curved flow lines, and 3D flow tubes with (c) constant height, height varying with (d) quantity and (e) distance between start and end points
-3. evaluation of different flow map visualisations primarily varying in the representation of the reference space
-
-Height of a 3d flow may be used to show a new sort of encoding or data
-
-
-searching for the flow line between two given locations and comparison of magnitude of two flows
-
