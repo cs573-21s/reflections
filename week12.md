@@ -1,5 +1,7 @@
 Reflection
 ====
+Link:https://diglib.eg.org/bitstream/handle/10.2312/eurovisshort20171149/151-155.pdf    
+    
 As we known, social media is everywhere in our daily life. People can post there and the paper I found last week is about developing a tool to explore the relationship between the key words. This tool used chord diagram to visualize key words. However, the traditional chord sometimes will create overlapping chord at the associated side. So, author proposals an enhanced chord diagram. In order to avoid chord overlapping, the enhanced chard diagram order the chords based on their weights, such that the chord with highest weight value is placed at the bottom, while the second next one is placed above the previous one, and so on till the chord with the least weight value.    
 <img src="img/12-1.png">    
     
