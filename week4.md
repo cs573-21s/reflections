@@ -1,0 +1,3 @@
+https://nylira.net/3d
+
+This week I was too tempted to post some political visualizations I had seen during the week, couldn't find anything I liked related to agriculture, and then ran out of time. This is something I had come across a few weeks ago but didn't understand. As of right now I still don't understand it. My internet is also slow today and it won't even load. So I might have to skip this week and maybe I can use this one for next week if I can figure it out. It has to do with a blockchain and is related to an AgTech company I am familiar with which is developing a blockchain for ecological outcomes - land/water stewards being compensated for verified ecological outcomes. 
