@@ -1,5 +1,6 @@
 Reflection
 ====
+link:http://diglib.eg.org/bitstream/handle/10.2312/eurovisshort20161169/103-107.pdf
 
 The paper I found last week is about to create a visualization to represent the impact of a publication. In traditional way, people are used to assess a publication by how many citations it has. However, this way may cause misleading, because the weight of citation vary and author can cite their own publications. To address these challenge problems, this paper proposals a visualization to assess impact of publication.   
    
