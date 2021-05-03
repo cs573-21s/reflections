@@ -6,7 +6,7 @@ The paper I found last week is about to create a visualization to represent the 
 In section A of figure 1, publications are generally represented as nodes; red nodes represent author’s own publication. Blue nodes represent publication that cited this publication. Gray nodes represent reference publications. X axis represents date of publication, Y axis represents number of citations. Glyphs in B is a more compacted version of Glyphs in B. In figure C, it is impact overviews which provide a way of viewing many papers.   
 <img src="img/13-1.png">   
    
-There are five motifs that author believes adequately represent the common citation patterns for publications. They are:   
+There are five topological structures that author believes adequately represent the common citation patterns for publications. They are:   
 <img src="img/13-2.png">   
 With the help of these motifs, users can intuitively know what level of impact the publication belongs to in the impact overview.    
    
