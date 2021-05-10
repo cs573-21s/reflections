@@ -1,6 +1,6 @@
 # Week 14 - MedThaiVis: An Approach for Thai Biomedical Data Visualization 
 
-Authors: Jarernsri Mitrpanont, Nut Janekitiworapong, Supakorn Ongsritrakul, Supatsara Varasai
+Mitrpanont J, Janekitiworapong N, Ongsritrakul S, et al. MedThaiVis: An approach for thai biomedical data visualization[C]//2017 6th ICT International Student Project Conference (ICT-ISPC). IEEE, 2017: 1-4.
 
 Biomedical information is highly complex,
 scattered in all areas, and difficult to present therefore the
