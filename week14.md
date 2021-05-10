@@ -2,6 +2,8 @@
 
 Mitrpanont J, Janekitiworapong N, Ongsritrakul S, et al. MedThaiVis: An approach for thai biomedical data visualization[C]//2017 6th ICT International Student Project Conference (ICT-ISPC). IEEE, 2017: 1-4.
 
+---
+
 Biomedical information is highly complex,
 scattered in all areas, and difficult to present therefore the
 medical and public health practitioners or professionals who are
