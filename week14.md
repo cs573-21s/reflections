@@ -37,16 +37,16 @@ my classmates.
 
 ![14-2](img/14-2.PNG)
 
-*figure-2 An example of dashboard*
+*figure-1 An example of dashboard*
 
 ![14-3](img/14-3.PNG)
 
-*figure-3 An example of medical and healthcare map*
+*figure-2 An example of medical and healthcare map*
 
 ![14-4](img/14-4.PNG)
 
-*figure-4 An example of multi-relationship network review*
+*figure-3 An example of multi-relationship network review*
 
 ![14-5](img/14-5.PNG)
 
-*figure-5 An example of statistics graph*
+*figure-4 An example of statistics graph*
